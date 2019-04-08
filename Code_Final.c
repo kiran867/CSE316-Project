@@ -60,7 +60,7 @@ main()
       void Queue1()  //round robins
          {
             printf("\nRound Robin\n");
-         	int a,i,j,n,m,g=0,r=0,;
+         	int a,i,j,n,m,g=0,r=0;
             int b[10],rq[10],id[10],wt[10],tt[10],at[10],bt[10],TimeQuantum=4;
 
             printf("enter number of processes ");
